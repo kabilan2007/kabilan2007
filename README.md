@@ -4,7 +4,7 @@ Bachelor of Technalogy/Artificial inteligent and Data science
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                   - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.bing.com/ck/a?!&&p=224f6b474195e344211823882003a47550c2379e1c9482b5692ef075f805f613JmltdHM9MTc3ODM3MTIwMA&ptn=3&ver=2&hsh=4&fclid=1124af74-bae2-69b7-2430-b95ebb8068b6&psq=www.swehg.com%2fswce&u=a1aHR0cHM6Ly9zdHVkeXdvcmxkaW5kaWEuY29tLw),
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]() <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]()
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]() <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/itz__.kabilan.__?igsh=MXRscndyeWd2NGRpcA==)
 - ![Instagram Id](https://www.instagram.com/itz__.kabilan.__?igsh=MXRscndyeWd2NGRpcA==)
 - ![Instagram Followers](https://www.instagram.com/itz__.kabilan.__?igsh=MXRscndyeWd2NGRpcA==)
 
