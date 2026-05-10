@@ -5,10 +5,10 @@ Bachelor of Technalogy/Artificial inteligent and Data science
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.bing.com/ck/a?!&&p=224f6b474195e344211823882003a47550c2379e1c9482b5692ef075f805f613JmltdHM9MTc3ODM3MTIwMA&ptn=3&ver=2&hsh=4&fclid=1124af74-bae2-69b7-2430-b95ebb8068b6&psq=www.swehg.com%2fswce&u=a1aHR0cHM6Ly9zdHVkeXdvcmxkaW5kaWEuY29tLw),
 - Social Presence
 <br /> <p align="left">
-  <a href="https://www.instagram.com/itz._.kabilan" target="_blank">
+  <a href="https://www.instagram.com/itz__.kabilan.__?igsh=MXRscndyeWd2NGRpcA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.instagram.com/itz._.kabilan" target="_blank">
+  <a href="https://www.instagram.com/itz__.kabilan.__?igsh=MXRscndyeWd2NGRpcA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram_Followers-5851DB?style=for-the-badge&logo=instagram&logoColor=white" alt="Followers" />
   </a>
 </p>
